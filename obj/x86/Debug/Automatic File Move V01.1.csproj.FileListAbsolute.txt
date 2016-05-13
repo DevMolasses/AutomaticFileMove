@@ -1,0 +1,13 @@
+H:\Trever Stewart\Misc\C# Projects\Stuff\Automatic File Move V01.1\Automatic File Move V01.1\bin\Debug\Automatic File Move V01.1.exe
+H:\Trever Stewart\Misc\C# Projects\Stuff\Automatic File Move V01.1\Automatic File Move V01.1\bin\Debug\Automatic File Move V01.1.pdb
+H:\Trever Stewart\Misc\C# Projects\Stuff\Automatic File Move V01.1\Automatic File Move V01.1\obj\x86\Debug\MainWindow.baml
+H:\Trever Stewart\Misc\C# Projects\Stuff\Automatic File Move V01.1\Automatic File Move V01.1\obj\x86\Debug\MainWindow.g.cs
+H:\Trever Stewart\Misc\C# Projects\Stuff\Automatic File Move V01.1\Automatic File Move V01.1\obj\x86\Debug\App.g.cs
+H:\Trever Stewart\Misc\C# Projects\Stuff\Automatic File Move V01.1\Automatic File Move V01.1\obj\x86\Debug\Automatic File Move V01.1_MarkupCompile.cache
+H:\Trever Stewart\Misc\C# Projects\Stuff\Automatic File Move V01.1\Automatic File Move V01.1\obj\x86\Debug\Automatic File Move V01.1.g.resources
+H:\Trever Stewart\Misc\C# Projects\Stuff\Automatic File Move V01.1\Automatic File Move V01.1\obj\x86\Debug\Automatic_File_Move_V01._1.Properties.Resources.resources
+H:\Trever Stewart\Misc\C# Projects\Stuff\Automatic File Move V01.1\Automatic File Move V01.1\obj\x86\Debug\Automatic File Move V01.1.csproj.GenerateResource.Cache
+H:\Trever Stewart\Misc\C# Projects\Stuff\Automatic File Move V01.1\Automatic File Move V01.1\obj\x86\Debug\Automatic File Move V01.1.exe
+H:\Trever Stewart\Misc\C# Projects\Stuff\Automatic File Move V01.1\Automatic File Move V01.1\obj\x86\Debug\Automatic File Move V01.1.pdb
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Automatic File Move V01.1\Automatic File Move V01.1\obj\x86\Debug\Automatic File Move V01.1.exe
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Automatic File Move V01.1\Automatic File Move V01.1\obj\x86\Debug\Automatic File Move V01.1.pdb
